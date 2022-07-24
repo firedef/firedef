@@ -3,12 +3,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firedef&show_icons=true&theme=material-palenight&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=firedef&repo=SomeCharts&theme=material-palenight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=firedef&repo=MathStuff&theme=material-palenight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=firedef&repo=ObsidianSharp&theme=material-palenight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=firedef&repo=GlDesktop&theme=material-palenight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=firedef&repo=Quartz&theme=material-palenight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=firedef&repo=Citrine&theme=material-palenight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=firedef&repo=SomeCharts&theme=material-palenight&hide_border=true)](https://github.com/firedef/SomeCharts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=firedef&repo=MathStuff&theme=material-palenight&hide_border=true)](https://github.com/firedef/MathStuff)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=firedef&repo=ObsidianSharp&theme=material-palenight&hide_border=true)](https://github.com/firedef/ObsidianSharp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=firedef&repo=GlDesktop&theme=material-palenight&hide_border=true)](https://github.com/firedef/GlDesktop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=firedef&repo=Quartz&theme=material-palenight&hide_border=true)](https://github.com/firedef/Quartz)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=firedef&repo=Citrine&theme=material-palenight&hide_border=true)](https://github.com/firedef/Citrine)
 
 <!--
 **firedef/firedef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
